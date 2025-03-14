@@ -13,8 +13,8 @@ A simple **To-Do List** app built using **HTML, CSS, and JavaScript** to help us
 
 ## 📸 Screenshots
 
-![To-Do List Screenshot](![image](https://github.com/user-attachments/assets/36fd178e-520d-4e98-84e1-f849b5f1a013)
-)  
+![To-Do List Screenshot][(![image](https://github.com/user-attachments/assets/36fd178e-520d-4e98-84e1-f849b5f1a013)
+)  ](https://github.com/akshaybhat0/To-do_list/blob/main/image.png)
 
 ## 🛠️ Installation Guide
 
