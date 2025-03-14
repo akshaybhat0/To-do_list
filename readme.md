@@ -14,7 +14,6 @@ A simple **To-Do List** app built using **HTML, CSS, and JavaScript** to help us
 ## 📸 Screenshots
 
 ![To-Do List Screenshot](https://via.placeholder.com/600x300)  
-*(Replace this with an actual screenshot of your project)*
 
 ## 🛠️ Installation Guide
 
